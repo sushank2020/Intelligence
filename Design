@@ -1,3 +1,30 @@
 https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
 https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
 https://www.uml-diagrams.org/class-diagrams-overview.html
+
+* 7 Common Programming Principles:
+    1. KISS
+    2. DRY
+    3. YAGNI
+    4. SOLID
+    5. Separation of Concerns (SoC)
+    6. Avoid Premature Optimization
+    7. Law of Demeter
+
+* SOLID Principle in Programming: 
+	  1. Single Responsibility Principle (SRP)
+	  2. Open/Closed Principle
+	  3. Liskov’s Substitution Principle (LSP)
+	  4. Interface Segregation Principle (ISP)
+   5. Dependency Inversion Principle (DIP)
+  
+* Technical Design decision parameter for Applications:
+    • How the application can grow with more users 
+    • How timing and consistency problems are overcome 
+    • How the application recovers from a failure 
+    • How disaster recovery works
+    • How security risks are mitigated 
+    • How security is monitored 
+    • How the application is administered by operations 
+    • How new versions of the application are put into production
+
